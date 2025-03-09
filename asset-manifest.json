@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Coder-Army-Hackathon-3/static/css/main.b45b64f6.css",
+    "main.js": "/Coder-Army-Hackathon-3/static/js/main.987390f9.js",
+    "static/js/787.400d2143.chunk.js": "/Coder-Army-Hackathon-3/static/js/787.400d2143.chunk.js",
+    "static/media/Blanka-Regular.otf": "/Coder-Army-Hackathon-3/static/media/Blanka-Regular.16f6265b20de0db4a921.otf",
+    "index.html": "/Coder-Army-Hackathon-3/index.html",
+    "main.b45b64f6.css.map": "/Coder-Army-Hackathon-3/static/css/main.b45b64f6.css.map",
+    "main.987390f9.js.map": "/Coder-Army-Hackathon-3/static/js/main.987390f9.js.map",
+    "787.400d2143.chunk.js.map": "/Coder-Army-Hackathon-3/static/js/787.400d2143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45b64f6.css",
+    "static/js/main.987390f9.js"
+  ]
+}
