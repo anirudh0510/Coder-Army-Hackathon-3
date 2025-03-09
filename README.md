@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Algorithm Visualizer is an interactive web-based platform designed to help users understand and analyze different algorithms through dynamic visualizations.
 The platform includes Sorting, Searching, Graph Traversal, and a unique Race Mode, making learning fun and engaging.It also have Racemode feature which will
