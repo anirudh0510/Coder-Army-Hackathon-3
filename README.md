@@ -12,7 +12,11 @@ Supports Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, and Quick Sort
 
 Adjustable array size and speed range dynamically updated on the UI.
 
-📌 Place for Sorting Section Screenshot
+
+https://github.com/user-attachments/assets/7b5b80cf-3e4c-4421-83ff-118d95e7129c
+
+
+
 
 ## 2. Searching Algorithms
 
@@ -22,13 +26,21 @@ Users can set the array size and speed range.
 
 Input field to enter the integer to search in the array.
 
-📌 Place for Searching Section Screenshot
+
+
+https://github.com/user-attachments/assets/c8f53535-297f-4510-8473-973aaaeafe48
+
+
 
 ## 3. Graph Algorithms
 
 Supports Dijkstra’s Algorithm, Depth First Search (DFS), and Breadth First Search (BFS).
 
-📌 Place for Graphs Section Screenshot
+
+
+https://github.com/user-attachments/assets/bd3d0b3d-a500-4aae-b60d-c34215a2fce3
+
+
 
 ## 4. Race Mode
 
@@ -40,7 +52,11 @@ Features a leaderboard ranking algorithms based on execution time.
 
 Separate racemodes for Sorting, Searching, and Graphs.
 
-📌 Place for Race Mode Screenshot
+
+
+https://github.com/user-attachments/assets/64a8b597-a005-4e7a-b039-159ec4504add
+
+
 
 # How to Use
 
@@ -56,7 +72,6 @@ Observe the execution and understand the working of different algorithms.
 
 In Race Mode, compare execution times and check the leaderboard.
 
-📌 Place for General UI Screenshot
 
 # Technical Details
 
@@ -80,5 +95,9 @@ Add a challenge mode for users to predict algorithm performance.
 
 # Demo Video
 
-📌 Place for Video Link
+
+
+https://github.com/user-attachments/assets/e303b03a-0bc6-4e03-8798-be4979d433cd
+
+
 
