@@ -1,0 +1,6 @@
+.arrayBar{
+    border-radius: 4px 4px 0 0;
+    display:inline-block;
+    transition:height 0.2s;
+  }
+  

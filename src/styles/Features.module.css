@@ -1,0 +1,9 @@
+.feature{
+    background: -webkit-linear-gradient(bottom, #0E0E0E 0%,#0E0E0E 50%,#ffffff 50%,#ffffff 100%);
+    @apply h-[100%] w-[100%] flex flex-col items-center;
+}
+
+/* .footer{
+    background: -webkit-linear-gradient(bottom, #ffffff 0%,#ffffff 30%,#172554 30%,#172554 100%);
+    @apply h-[100%] w-[100%] flex flex-col items-center;
+} */
