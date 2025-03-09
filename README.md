@@ -4,9 +4,9 @@ Algorithm Visualizer is an interactive web-based platform designed to help users
 The platform includes Sorting, Searching, Graph Traversal, and a unique Race Mode, making learning fun and engaging.It also have Racemode feature which will
 let the user learn the speed and timecomplexities of such algorithms differently.
 
-#Features
+# Features
 
-##1. Sorting Algorithms
+## 1. Sorting Algorithms
 
 Supports Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, and Quick Sort.
 
@@ -14,7 +14,7 @@ Adjustable array size and speed range dynamically updated on the UI.
 
 📌 Place for Sorting Section Screenshot
 
-##2. Searching Algorithms
+## 2. Searching Algorithms
 
 Includes Linear Search and Binary Search.
 
@@ -24,13 +24,13 @@ Input field to enter the integer to search in the array.
 
 📌 Place for Searching Section Screenshot
 
-##3. Graph Algorithms
+## 3. Graph Algorithms
 
 Supports Dijkstra’s Algorithm, Depth First Search (DFS), and Breadth First Search (BFS).
 
 📌 Place for Graphs Section Screenshot
 
-##4. Race Mode
+## 4. Race Mode
 
 Compares multiple algorithms dynamically.
 
@@ -42,7 +42,7 @@ Separate racemodes for Sorting, Searching, and Graphs.
 
 📌 Place for Race Mode Screenshot
 
-#How to Use
+# How to Use
 
 Select a category: Sorting, Searching, Graphs, or Race Mode.
 
@@ -58,7 +58,7 @@ In Race Mode, compare execution times and check the leaderboard.
 
 📌 Place for General UI Screenshot
 
-#Technical Details
+# Technical Details
 
 Frontend: React.js, Tailwind CSS
 
@@ -68,7 +68,7 @@ Animations & Visualizations: JavaScript & CSS Transitions(tailwind)
 
 Deployment: Vercel
 
-#Future Enhancements
+# Future Enhancements
 
 Add more algorithms (e.g., Minimum Spanning Tree, Algorithm writer,etc).
 
@@ -78,7 +78,7 @@ Implement user authentication for saving scores and progress.
 
 Add a challenge mode for users to predict algorithm performance.
 
-#Demo Video
+# Demo Video
 
 📌 Place for Video Link
 
